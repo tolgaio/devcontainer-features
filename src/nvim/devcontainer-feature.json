@@ -3,4 +3,7 @@
     "id": "nvim",
     "version": "1.0.0",
     "description": "install neovim",
+    "dependsOn": {
+      "bash:1": {}
+    }
 }
